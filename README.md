@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Vite、Esbuild... 
+- 📫 How to reach me: [小红书·DDF](https://www.xiaohongshu.com/user/profile/5ec60f66000000000101e33d)、微信公众号【程序与Bug】
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyiqiushui)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yuyiqiushui/yuyiqiushui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
